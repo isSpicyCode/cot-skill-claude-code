@@ -1,0 +1,10 @@
+{
+  "name": "cot",
+  "description": "Structured technical reasoning powered by Chain-of-Thought prompting",
+  "version": "1.0.0",
+  "author": {
+    "name": "isSpicyCode"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/isSpicyCode/cot-skill-claude-code"
+}

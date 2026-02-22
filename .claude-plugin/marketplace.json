@@ -1,0 +1,26 @@
+{
+  "name": "cot",
+  "owner": {
+    "name": "isSpicyCode"
+  },
+  "metadata": {
+    "description": "Chain-of-Thought reasoning skill for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cot",
+      "source": "./plugins/cot",
+      "description": "Structured technical reasoning powered by Chain-of-Thought prompting. 3 modes: Flash, Normal, Deep.",
+      "version": "1.0.0",
+      "author": {
+        "name": "isSpicyCode"
+      },
+      "homepage": "https://github.com/isSpicyCode/cot-skill-claude-code",
+      "repository": "https://github.com/isSpicyCode/cot-skill-claude-code",
+      "license": "MIT",
+      "keywords": ["cot", "chain-of-thought", "reasoning", "debugging", "architecture"],
+      "category": "productivity"
+    }
+  ]
+}
