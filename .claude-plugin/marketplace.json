@@ -8,7 +8,7 @@
       "name": "cot",
       "source": "./plugins/cot",
       "description": "Structured technical reasoning powered by Chain-of-Thought prompting. 3 modes: Flash, Normal, Deep.",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }
